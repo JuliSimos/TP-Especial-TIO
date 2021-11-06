@@ -121,6 +121,7 @@ body{
     padding: 10px;
     text-align: justify;
 }
+
 .news1{
     width: 100%;
 }
@@ -195,6 +196,7 @@ button:focus, #send:focus, #captcha:focus{
     outline: none;
     border: 2px solid rgb(158, 120, 58);
 }
+---------------------------------------------/*table of the forests of japan*/----------------------------------------------------------------
 table{
     margin: 15px auto;
     border-spacing: 4px;
