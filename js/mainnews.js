@@ -11,7 +11,7 @@ function warMap(){  //changes the image and text from selected elements
     + " En naranja la única prectura que se declaró neutral. En blanco las prefecturas que no se han manifestado en relación al conflicto.";
 }
 
-function japanMap(){
+function japanMap(){ //changes the image and text from selected elements
     document.getElementById("japan-map").src="images/prefectures-all.png";
     document.querySelector("#newinfo").innerHTML = "Todas las prefecturas del islote.";
 }
