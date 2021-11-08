@@ -16,7 +16,7 @@ function japanMap(){ //changes the image and text from selected elements
     document.querySelector("#newinfo").innerHTML = "Todas las prefecturas del islote.";
 }
 
-function kiotoMap(){
+function kiotoMap(){ //changes the image and text from selected elements
     document.getElementById("japan-map").src="images/prefectures-kioto.png";
     document.querySelector("#newinfo").innerHTML = "Kyoto, sede imperial del Emperador.";
 }
