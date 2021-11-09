@@ -1,4 +1,6 @@
-Datos de acceso del administrador:
+Para el proyecto "Trabajo Especial TIO" el grupo 4 utilizo distintas tecnologias:
 
-Usuario: tiogrupo4
-Contraseña: grupo4
+html
+css
+js
+Rest Service
