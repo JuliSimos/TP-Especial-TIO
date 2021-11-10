@@ -1,6 +1,7 @@
 //declaro una variable tipo let "btnenviar" que toma un valor que viene
 //del input send (que es el boton donde se le da enviar datos)
 let buttonSend = document.getElementById("send");
+alert("holamundo");
 
 //creo una función a partir de la variable "btnenviar" que
 //tomaba los valores del envío de datos, y la asocio al "click"
