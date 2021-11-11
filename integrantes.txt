@@ -1,5 +1,0 @@
-Datos de acceso del administrador:
-
-Usuario: tiogrupo4
-Contraseña: grupo4
-
