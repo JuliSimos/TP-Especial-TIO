@@ -1,0 +1,19 @@
+﻿Integrantes:	
+Simos Julieta
+Perez Viecho Matias
+Alvarez Manuel
+Fernández Gayral Belén 
+Martínez Lucía Ines
+Conforti Valentin 
+
+Datos de acceso del administrador:
+
+Usuario: tiogrupo4
+Contraseña: grupo4
+
+Para el proyecto "Trabajo Especial TIO" el grupo 4 utilizo distintas tecnologias:
+
+html
+css
+js
+Rest Service
