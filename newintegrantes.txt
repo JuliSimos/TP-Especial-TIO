@@ -1,6 +1,0 @@
-Para el proyecto "Trabajo Especial TIO" el grupo 4 utilizo distintas tecnologias:
-
-html
-css
-js
-Rest Service
